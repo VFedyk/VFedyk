@@ -1,28 +1,3 @@
-![Code Devourer](https://media1.giphy.com/media/A8NkSPltT13H2/giphy.gif?cid=ecf05e47j8342mwqrxkwgtzkhvsg2pvm57gdd24sc9d6svx7&rid=giphy.gif)
-
-[CV is here](https://fedyk.in/downloads/CV_Volodymyr_Fedyk.pdf)
-
-<div align="center">
-
-```
-██╗   ██╗ ██████╗ ██╗      ██████╗ ██████╗ ██╗   ██╗███╗   ███╗██╗   ██╗██████╗ 
-██║   ██║██╔═══██╗██║     ██╔═══██╗██╔══██╗╚██╗ ██╔╝████╗ ████║╚██╗ ██╔╝██╔══██╗
-██║   ██║██║   ██║██║     ██║   ██║██║  ██║ ╚████╔╝ ██╔████╔██║ ╚████╔╝ ██████╔╝
-╚██╗ ██╔╝██║   ██║██║     ██║   ██║██║  ██║  ╚██╔╝  ██║╚██╔╝██║  ╚██╔╝  ██╔══██╗
- ╚████╔╝ ╚██████╔╝███████╗╚██████╔╝██████╔╝   ██║   ██║ ╚═╝ ██║   ██║   ██║  ██║
-  ╚═══╝   ╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝    ╚═╝   ╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝
-                                                F  E  D  Y  K
-```
-
-### `> Volodymyr Fedyk` — Software Engineer · Ukraine 🇺🇦
-
-[![Website](https://img.shields.io/badge/fedyk.in-222?style=for-the-badge&logo=firefox&logoColor=white)](https://fedyk.in)
-[![GitHub followers](https://img.shields.io/github/followers/VFedyk?style=for-the-badge&color=222&label=followers)](https://github.com/VFedyk?tab=followers)
-[![Stars](https://img.shields.io/badge/⭐_Stars-366-222?style=for-the-badge)](https://github.com/VFedyk?tab=stars)
-
-</div>
-
----
 
 ```typescript
 const volodymyr: Developer = {
@@ -33,6 +8,14 @@ const volodymyr: Developer = {
   achievements: ["Arctic Code Vault Contributor", "Pull Shark ×2", "Quickdraw", "YOLO"],
 };
 ```
+
+---
+
+[![Website](https://img.shields.io/badge/fedyk.in-222?style=for-the-badge&logo=firefox&logoColor=white)](https://fedyk.in)
+[![GitHub followers](https://img.shields.io/github/followers/VFedyk?style=for-the-badge&color=222&label=followers)](https://github.com/VFedyk?tab=followers)
+[![Stars](https://img.shields.io/badge/⭐_Stars-366-222?style=for-the-badge)](https://github.com/VFedyk?tab=stars)
+
+</div>
 
 ---
 
