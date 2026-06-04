@@ -6,6 +6,7 @@ const volodymyr: Developer = {
   passions:   ["Open Source", "TypeScript", "Dart", "Node.js"],
   currentlyBuilding: "Language Nerd Tools (lnt)",
   achievements: ["Arctic Code Vault Contributor", "Pull Shark ×2", "Quickdraw", "YOLO"],
+  gpgKey: "4FD9 3171 705E 4191 B9EB  430F E5ED C7E8 6EF1 C098",
 };
 ```
 
